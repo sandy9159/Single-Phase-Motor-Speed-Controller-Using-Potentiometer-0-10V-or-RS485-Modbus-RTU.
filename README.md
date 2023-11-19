@@ -173,7 +173,8 @@ Looking to bring your electronic dreams to life? Look no further! JLCPCB.COM is 
 
 Transform your ideas into reality. Order your quality PCBs from JLCPCB.COM today and experience the perfect blend of quality, affordability, and efficiency. Your projects deserve the best, and we're here to deliver it! 🚀✨
 
-Visit [JLCPCB.COM]([url](https://jlcpcb.com/?from=MrI)) now and embark on a journey of seamless innovation! 💻🔧
+Visit [JLCPCB.COM](https://jlcpcb.com/?from=MrI)
+now and embark on a journey of seamless innovation! 💻🔧
 
 and one more good news new customers will get coupons worth of 54$
 
