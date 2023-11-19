@@ -146,7 +146,7 @@ Download the PCB and schemitic file from the link below
 
 https://oshwlab.com/sharmaz747/ac-motor-speed-controller
 
-I have ordered the PCB from JLCPCB.COM below are some key benefits if you order your PCB from JLCPCB
+I have ordered the PCB from [JLCPCB.COM]([url](https://jlcpcb.com/?from=MrI)) below are some key benefits if you order your PCB from JLCPCB
 
 🚀 Elevate Your Projects with JLCPCB! 🛠️
 
@@ -170,7 +170,9 @@ Looking to bring your electronic dreams to life? Look no further! JLCPCB.COM is 
 
 Transform your ideas into reality. Order your quality PCBs from JLCPCB.COM today and experience the perfect blend of quality, affordability, and efficiency. Your projects deserve the best, and we're here to deliver it! 🚀✨
 
-Visit JLCPCB.COM now and embark on a journey of seamless innovation! 💻🔧
+Visit [JLCPCB.COM]([url](https://jlcpcb.com/?from=MrI)) now and embark on a journey of seamless innovation! 💻🔧
+
+and one more good news new customers will get coupons worth of 54$
 
 
 # Step 3: SMD COMPONENTS SOLDERING
