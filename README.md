@@ -1,0 +1,2 @@
+# Single-Phase-Motor-Speed-Controller-Using-Potentiometer-0-10V-or-RS485-Modbus-RTU.
+Hello friends in this video I have developed a single phase motor speed controller card.  this card has the option to control speed via potentiometer, 0 to 10V DC or RS485 Modbus RTU protocol.  This can handle up to load of 1KW single phase induction motor.  the principle of speed control is based on zero cross over detection and triac firing.
