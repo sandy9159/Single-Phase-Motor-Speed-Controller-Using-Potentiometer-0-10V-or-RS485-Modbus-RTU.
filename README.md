@@ -146,7 +146,8 @@ Download the PCB and schemitic file from the link below
 
 https://oshwlab.com/sharmaz747/ac-motor-speed-controller
 
-I have ordered the PCB from [JLCPCB.COM]([url](https://jlcpcb.com/?from=MrI))
+I have ordered the PCB from [JLCPCB.COM](https://jlcpcb.com/?from=MrI)
+
 
 below are some key benefits if you order your PCB from JLCPCB
 
